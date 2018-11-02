@@ -8,4 +8,4 @@
 3. **Event-Driven Emotion Cause Extraction with Corpus Construction.** *L Gui, D Wu, R Xu, Q Lu, Y Zhou.* [[pdf](http://www.aclweb.org/anthology/D16-1170)]
 ### Memory Network
 1. **Emotion Cause Detection with Linguistic Construction in Chinese Weibo Text.** *L Gui, L Yuan, R Xu, B Liu, Q Lu, Y Zhou.* [[pdf](https://www.researchgate.net/profile/Ruifeng_Xu2/publication/289764554_Emotion_Cause_Detection_with_Linguistic_Construction_in_Chinese_Weibo_Text/links/5825eb3308aeebc4f8a1e0b2/Emotion-Cause-Detection-with-Linguistic-Construction-in-Chinese-Weibo-Text.pdf)]
-2. **A Question Answering Approach to Emotion Cause Extraction. ** *L Gui, J Hu, Y He, R Xu, Q Lu, J Du.* [[pdf](https://arxiv.org/pdf/1708.05482.pdf)]
+2. **A Question Answering Approach to Emotion Cause Extraction.** *L Gui, J Hu, Y He, R Xu, Q Lu, J Du.* [[pdf](https://arxiv.org/pdf/1708.05482.pdf)]
