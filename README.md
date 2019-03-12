@@ -10,7 +10,9 @@
 
 3. **Text-based Emotion Classification Using Emotion Cause Extraction** *W Li, H Xu. Expert Systems with Applications 2014.* [[pdf](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/01-NTCIR13-OV-ECA-GaoQ.pdf)]
 
-4. **Emotion Cause Extraction, A Challenging Task with Corpus Construction** *L Gui, R Xu, Q Lu, D Wu, Y Zhou. SMP 2016.* [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-981-10-2993-6.pdf)]
+4. **Emotion Cause Extraction, A Challenging Task with Corpus Construction** *L Gui, R Xu, Q Lu, D Wu, Y Zhou. SMP 2016.* [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-981-10-2993-6.pdf)] [[data](http://hlt.hitsz.edu.cn/?page_id=74)]
+
+5. **An Emotion Cause Corpus for Chinese Microblogs with Multiple-User Structures** *X Cheng, Y Chen, B Cheng, S Li, G Zhou. ACM TALLIP 2017.* [[pdf](http://delivery.acm.org/10.1145/3140000/3132684/a6-cheng.pdf?ip=58.60.1.21&id=3132684&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E0871A888CCEFF346%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1552353230_cf8d45228c04b6b44298acd5cec733e9)]
 
 ### Rule-based
 
