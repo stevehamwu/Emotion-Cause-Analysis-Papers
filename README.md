@@ -29,8 +29,10 @@
 
 **[6]**. **Event-Driven Emotion Cause Extraction with Corpus Construction.** *L Gui, D Wu, R Xu, Q Lu, Y Zhou. EMNLP 2016.* [[pdf](http://www.aclweb.org/anthology/D16-1170)]
 
-### Feature Engineering
+### Reranking
 **[1]**. **Extracting Emotion Causes using Learning to Rank Methods from an Information Retrieval Perspective** *B Xu, H Lin, Y Lin, Y Diao, L Yang, K Xu. IEEE ACCESS 2019.* [[pdf](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08625499.pdf?tp=&arnumber=8625499&isnumber=8600701)]
+
+**[2]**. **From Independent Prediction to Reordered Prediction: Integrating Relative Position and Global Label Information to Emotion Cause Identification** *Z Ding, H He, M Zhang, R Xia. AAAI 2019.* [[pdf](https://www.aaai.org/Papers/AAAI/2019/AAAI-DingZ.5630.pdf)]
 
 ### Memory Network
 **[1]**. **A Question Answering Approach to Emotion Cause Extraction.** *L Gui, J Hu, Y He, R Xu, Q Lu, J Du. EMNLP 2017.* [[pdf](https://arxiv.org/pdf/1708.05482.pdf)]
