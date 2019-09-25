@@ -1,8 +1,6 @@
 # Papers on Emotion Cause Analysis
 
-## Papers
-
-### Dataset
+## Task & Dataset
 
 **[1]**. **Emotion Cause Events: Corpus Construction and Analysis** *S. Yat, M. Lee, Y. Chen. LREC 2010* [[pdf](https://www.researchgate.net/profile/Chu-Ren_Huang/publication/220746716_Emotion_Cause_Events_Corpus_Construction_and_Analysis/links/0912f508ff080541ac000000/Emotion-Cause-Events-Corpus-Construction-and-Analysis.pdf)]
 
@@ -14,7 +12,9 @@
 
 **[5]**. **An Emotion Cause Corpus for Chinese Microblogs with Multiple-User Structures** *X Cheng, Y Chen, B Cheng, S Li, G Zhou. ACM TALLIP 2017.* [[pdf](http://delivery.acm.org/10.1145/3140000/3132684/a6-cheng.pdf?ip=58.60.1.21&id=3132684&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E0871A888CCEFF346%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1552353230_cf8d45228c04b6b44298acd5cec733e9)]
 
-### Rule-based
+**[6]**. **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts** *R Xia, Z Ding. ACL 2019.* [[pdf](https://arxiv.org/pdf/1906.01267.pdf)] [[data](https://github.com/NUSTM/ECPE/tree/master/data_combine)] [[code](https://github.com/NUSTM/ECPE)]
+
+## Rule-based Methods
 
 **[1]**. **A Text-driven Rule-based System for Emotion Cause Detection.** *S Lee, Y Chen, C Huang. NAACL  2010.* [[pdf](http://www.aclweb.org/anthology/W10-0206)]
 > This paper proposed 1.a Chinese EC annotated corpus; 2.a rule-based system for automatic detection of EC; 3.an evaluation scheme for performance sessment.
@@ -29,6 +29,7 @@
 
 **[6]**. **Event-Driven Emotion Cause Extraction with Corpus Construction.** *L Gui, D Wu, R Xu, Q Lu, Y Zhou. EMNLP 2016.* [[pdf](http://www.aclweb.org/anthology/D16-1170)]
 
+## Deep learning-based Methods
 ### Reranking
 **[1]**. **Extracting Emotion Causes using Learning to Rank Methods from an Information Retrieval Perspective** *B Xu, H Lin, Y Lin, Y Diao, L Yang, K Xu. IEEE ACCESS 2019.* [[pdf](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08625499.pdf?tp=&arnumber=8625499&isnumber=8600701)]
 
@@ -42,3 +43,10 @@
 
 ### Hierarchical Network
 **[1]**. **Multiple Level Hierarchical Network Based Clause Selection for Emotion Cause Extraction** *X Yu, W Rong, Z Zhang, Y Ouyang, Z Xiong. IEEE ACCESS 2019.* [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598785)] [[code](https://github.com/deardelia/ECextraction)]
+
+**[2]**. **RTHN: A RNN-Transformer Hierarchical Network for Emotion Cause Extraction** *R Xia, M Zhang, Z Ding. IJCAI 2019.* [[pdf](https://arxiv.org/pdf/1906.01236.pdf)] [[code](https://github.com/NUSTM/RTHN)]
+
+### Others
+**[1]**. **A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness** *X Li, K Song, S Feng, D Wang, Y Zhang. EMNLP 2018* [[pdf](https://www.aclweb.org/anthology/D18-1506)]
+
+**[2]**. **Context-aware Emotion Cause Analysis With Multi-attention-based Neural Network** *X Li, S Feng, D Wang, Y Zhang. KBS 2019, 174: 205-218* [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705119301273/pdfft?md5=49f8a9a3a326733d5441e82c1871fcb0&pid=1-s2.0-S0950705119301273-main.pdf)]
