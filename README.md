@@ -12,7 +12,9 @@
 
 **[5]**. **An Emotion Cause Corpus for Chinese Microblogs with Multiple-User Structures** *X Cheng, Y Chen, B Cheng, S Li, G Zhou. ACM TALLIP 2017.* [[pdf](http://delivery.acm.org/10.1145/3140000/3132684/a6-cheng.pdf?ip=58.60.1.21&id=3132684&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E0871A888CCEFF346%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1552353230_cf8d45228c04b6b44298acd5cec733e9)]
 
-**[6]**. **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts** *R Xia, Z Ding. ACL 2019.* [[pdf](https://arxiv.org/pdf/1906.01267.pdf)] [[data](https://github.com/NUSTM/ECPE/tree/master/data_combine)] [[code](https://github.com/NUSTM/ECPE)]
+**[6]**. **Who Feels What and Why? Annotation of a Literature Corpus with Semantic Roles of Emotions** *E Kim, R Klinger. COLING 2018.* [[pdf](https://www.aclweb.org/anthology/C18-1114)] [[data](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/reman.html)]
+
+**[7]**. **Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts** *R Xia, Z Ding. ACL 2019.* [[pdf](https://arxiv.org/pdf/1906.01267.pdf)] [[data](https://github.com/NUSTM/ECPE/tree/master/data_combine)] [[code](https://github.com/NUSTM/ECPE)]
 
 ## Rule-based Methods
 
