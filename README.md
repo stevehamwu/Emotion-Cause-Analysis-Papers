@@ -122,4 +122,4 @@
 
 ### GCN
 
-**[1]**. **End-to-End Emotion-Cause Pair Extraction with Graph Convolutional Network** Y Chen, W Hou, S Li, X Zhang. COLING 2020* [[pdf](https://www.aclweb.org/anthology/2020.coling-main.17.pdf)]
+**[1]**. **End-to-End Emotion-Cause Pair Extraction with Graph Convolutional Network** *Y Chen, W Hou, S Li, X Zhang. COLING 2020* [[pdf](https://www.aclweb.org/anthology/2020.coling-main.17.pdf)]
